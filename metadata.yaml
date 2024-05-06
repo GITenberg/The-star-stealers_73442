@@ -1,0 +1,44 @@
+_repo: The-star-stealers_73442
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rankin, Hugh
+    aliases:
+    - Copp, Hugh Doak
+    - Doak
+    - DOAK
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '54429'
+    url: http://www.gutenberg.org/2009/agents/54429
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_Doak_Rankin
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73442'
+language: en
+pgterms:marc905: 20240325140026hamilton
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publishing Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The star-stealers
+url: http://www.gutenberg.org/ebooks/73442
