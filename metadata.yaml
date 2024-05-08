@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '54429'
     url: http://www.gutenberg.org/2009/agents/54429
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Doak_Rankin
+covers:
+- cover_type: archival
+  image_path: 73442-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamilton, Edmond
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26787
     wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73442#The-star-stealers
 gutenberg_issued: '2024-04-21'
 gutenberg_type: Text
 identifiers:
